@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oussamamadjmaa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Gulp
 - 💞️ I’m looking to collaborate on Nothing Yet
 - 📫 How to reach me : oussama@madjmaa.com
 
